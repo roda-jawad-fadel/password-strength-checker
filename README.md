@@ -1,4 +1,4 @@
-# Vos règles de mot de passe servent à quelque chose ?
+# Vos règles de choix de mot de passe servent-elles à quelque chose ?
 
 Autre projet tutoré de L3, sur l'entropie de Shannon appliquée aux mots de
 passe. Rapport détaillé : `rapport_entropie.pdf`.
