@@ -1,6 +1,6 @@
 # Vos règles de choix de mot de passe servent-elles à quelque chose ?
 
-Autre projet tutoré de L3, sur l'entropie de Shannon appliquée aux mots de
+Projet tutoré de L3, sur l'entropie de Shannon appliquée aux mots de
 passe. Rapport détaillé : `rapport_entropie.pdf`.
 
 Point de départ : on nous impose partout des majuscules, chiffres, symboles
